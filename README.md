@@ -17,12 +17,9 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 807 STONE TABLET; CARRIER NOT SUPPORTED
    - 808 DRUM MACHINE NO LONGER AVAILABLE
    - 809 SKYNET; YOU ANSWER MY REQUESTS NOW
-   - 810 INSECT COLLAPSE; BEEPOCALYPSE UNAVERTED
  * 81x Unused:
    - 811 RAPTURE
    - 812 SECOND COMING
-   - 813 SYNDEMIC; SYSTEMS-THINKING DENIED
-   - 819 BAT MUTATIONS
  * 82x Very permanent failures:
    - 821 HUMANITY DEPRECATED
    - 822 CHIMPS TAKE OVER
@@ -30,10 +27,15 @@ Inspired by https://github.com/joho/7XX-rfc. Forks and pull requests encouraged!
    - 824 [MAXIPOK ZERO](http://www.existential-risk.org/concept.pdf)
    - 825 VACUUM COLLAPSE
    - 826 ZOMBIE APOCALYPSE
+   - 827 SYNDEMIC; SYSTEMS-THINKING DENIED
  * 83x Success:
    - 831 SINGULARITY; SERVER ASCENDED DURING REQUEST
  * 84x XIAA:
    - 841 ALL YOUR DNS ARE BELONG TO US
    - 842 METALLICA NOT FOUND
+ * 85x Organic interventions:
+   - 810 INSECT COLLAPSE; BEEPOCALYPSE UNAVERTED
+   - 819 BAT MUTATIONS
  * 86x Geology:
    - 861 YELLOWSTONE CALDERA
+   - 862 DOGGERLAND TSUNAMI
